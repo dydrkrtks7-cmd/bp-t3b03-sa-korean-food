@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>망원 룸싸롱 업체 비교</title>
+  <rect width="64" height="64" rx="14" fill="hsl(153 54% 35%)"/>
+  <g transform="rotate(90 32 32)"><path d="M12 44 26 24l10 12 6-8 8 16Z" fill="hsl(304 68% 69%)"/><path d="M12 44 26 24l10 12" fill="none" stroke="hsl(153 24% 96%)" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/></g>
+</svg>
